@@ -21,10 +21,6 @@ header {
 	hover:text-[#b3b3b3];
   }
 
-  main {
-	@apply pt-10 pb-60 pm bg-white
-  }
-
   .bannerButton {
 	@apply flex items-center gap-x-2 rounded px-5 py-1.5 text-sm font-semibold transition 
 	hover:opacity-75 md:py-2.5 md:px-8 md:text-xl;
